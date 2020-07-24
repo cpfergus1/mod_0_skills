@@ -1,0 +1,13 @@
+Object harry_potter
+
+pages = 423
+characters = {"Harry Potter": "Protagonist", "Severus Snape": "Both", "Voldemort": "Antagonist"}
+illustrations = false
+genre = "Fiction"
+chapters = 32
+authors = ["J.K Rowling", ""]
+
+add_chapter(2) : chapters = 34
+update_genre: genre = "Fantasy Science Fiction"
+add_author: authors = ["J.K. Rowling", "Connor Ferguson"]
+rip_pages: pages = 421
