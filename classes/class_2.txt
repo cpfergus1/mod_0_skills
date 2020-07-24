@@ -1,0 +1,12 @@
+class rock
+
+weight (int)
+sharp (boolean)
+minerals (array)
+color (string)
+
+methods
+break_rock (affects the weight of the rock)
+grind_rock (affects whether the rock is sharp or not)
+paint_color_rock (changes color of rock)
+identify_new_mineral (add mineral to array)
