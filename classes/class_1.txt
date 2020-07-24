@@ -1,0 +1,15 @@
+class novel
+
+pages (int)
+characters (hash (name:protag/antag))
+illustrations (boolean)
+genre (string)
+chapters (int)
+authors (array)
+
+methods
+
+add_chapter (increases chapters and pages)
+update_genre (changes genre)
+add_author (adds an additional author)
+rip_pages (affects pages)
