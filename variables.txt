@@ -1,0 +1,16 @@
+food = "apple"
+is_delicious = true
+food = "banana"
+
+num2 = 3
+
+num7 = 15
+
+quotient = num7/num2
+
+songs = ["baby light my fire", "can't touch this", "roxanne"]
+
+songs.shift()
+
+puts "How many characters are there in the variable food?"
+puts "#{food.length}"
