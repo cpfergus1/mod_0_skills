@@ -1,6 +1,6 @@
 class rock
 
-weight (int)
+weight (float)
 sharp (boolean)
 minerals (array)
 color (string)
