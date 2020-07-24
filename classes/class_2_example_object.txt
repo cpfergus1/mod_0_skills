@@ -1,0 +1,12 @@
+object rock_in_garden
+
+weight = 1.4
+sharp = true
+minerals = ["silica", "anhydrate", "gypsum"]
+color = "white"
+
+methods
+break_rock: weight = .7
+grind_rock: sharp = false
+paint_color_rock: color = "blue"
+identify_new_mineral: minerals = ["silica", "anhydrate","gypsum","pyrite"]
